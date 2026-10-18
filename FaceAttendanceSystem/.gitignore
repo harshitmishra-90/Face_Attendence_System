@@ -1,0 +1,18 @@
+# Java / Maven
+springboot-backend/target/
+*.class
+
+# Python
+python-face-recognition/venv/
+python-face-recognition/__pycache__/
+python-face-recognition/.env
+python-face-recognition/encodings/*.pkl
+python-face-recognition/dataset/*/
+python-face-recognition/unknown_snapshots/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
